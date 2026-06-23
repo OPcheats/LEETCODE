@@ -5,3 +5,19 @@ Each solution includes clean code, efficient logic, and a clear explanation of m
 
 For a better understanding of DSA, I studied DSA with C (Third Edition) by Reema Thareja.
 I also watched tutorials from Apna College and used various tools for deeper understanding, including ChatGPT, Claude, Gemini, and other AI tools.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/OPcheats/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/OPcheats/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/OPcheats/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
+<!---LeetCode Topics End-->
